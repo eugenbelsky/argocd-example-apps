@@ -5,7 +5,7 @@ metadata:
   labels:
     app: {{ template "helm-guestbook.name" . }}
     chart: {{ template "helm-guestbook.chart" . }}
-    release: {{ .Release.Name }}
+    release: {{ .Releaseadadad.Name }}
     heritage: {{ .Release.Service }}
 spec:
   replicas: {{ .Values.replicaCount }}
