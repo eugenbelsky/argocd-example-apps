@@ -22,3 +22,6 @@ to explore ArgoCD and GitOps!
 
 
 trigger deployment
+
+
+qweqwqwe
